@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "targets": {
+    "UAP,Version=v10.0.10586": {},
+    "UAP,Version=v10.0.10586/win10-arm": {},
+    "UAP,Version=v10.0.10586/win10-arm-aot": {},
+    "UAP,Version=v10.0.10586/win10-x64": {},
+    "UAP,Version=v10.0.10586/win10-x64-aot": {},
+    "UAP,Version=v10.0.10586/win10-x86": {},
+    "UAP,Version=v10.0.10586/win10-x86-aot": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "UAP,Version=v10.0.10586": []
+  },
+  "packageFolders": {
+    "C:\\Users\\james.warner\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\james.warner\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "projectName": "FizzBuzz",
+      "projectPath": "C:\\Users\\james.warner\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+      "packagesPath": "C:\\Users\\james.warner\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\james.warner\\source\\repos\\FizzBuzz\\FizzBuzz\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\james.warner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "uap10.0.10586"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "uap10.0.10586": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "uap10.0.10586": {}
+    },
+    "runtimes": {
+      "win10-arm": {
+        "#import": []
+      },
+      "win10-arm-aot": {
+        "#import": []
+      },
+      "win10-x64": {
+        "#import": []
+      },
+      "win10-x64-aot": {
+        "#import": []
+      },
+      "win10-x86": {
+        "#import": []
+      },
+      "win10-x86-aot": {
+        "#import": []
+      }
+    }
+  }
+}
